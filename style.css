@@ -105,7 +105,7 @@
   white-space: nowrap;
 }
 
-.H1 {
+H1 {
   position: absolute;
   top: 194px;
   left: 227px;
@@ -115,6 +115,7 @@
   font-size: 40px;
   letter-spacing: -0.88px;
   line-height: 60px;
+  outline: 1px solid blue;
 }
 
 .macbook-air .overlap-3 {
@@ -165,7 +166,7 @@
   letter-spacing: -0.44px;
   line-height: 30px;
 }
-
+//THIS ONE IS FOR THE IMAGES. I just made an outline that's green for this one.//
 .macbook-air .overlap-4 {
   position: absolute;
   width: 596px;
@@ -174,6 +175,7 @@
   left: 602px;
   background-color: #262626;
   border-radius: 0px 10px 10px 0px;
+  outline: 1px solid green;
 }
 
 .macbook-air .text-wrapper-5 {
