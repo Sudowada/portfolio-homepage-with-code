@@ -176,6 +176,8 @@ H1 {
   background-color: #262626;
   border-radius: 0px 10px 10px 0px;
   outline: 1px solid green;
+  border-color: green;
+  border-width:2px;
 }
 
 .macbook-air .text-wrapper-5 {
