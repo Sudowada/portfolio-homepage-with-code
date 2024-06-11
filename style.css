@@ -40,9 +40,6 @@
   height: 72px;
   top: 9px;
   left: 7px;
-  border: 2px solid black;
-  outline-style: solid;
-  outline-color: red;
 }
 
 .macbook-air .ellipse {
@@ -195,6 +192,9 @@
   left: 41px;
   background-color: #d9d9d9;
   border-radius: 10px;
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: red;
 }
 
 .macbook-air .text-wrapper-6 {
